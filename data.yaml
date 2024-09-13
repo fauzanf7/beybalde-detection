@@ -1,0 +1,6 @@
+train: C:\Users\ASUS\OneDrive\Documents\Fauzan\YOLOV8\Beyblade\train\images
+val: C:\Users\ASUS\OneDrive\Documents\Fauzan\YOLOV8\Beyblade\valid\images
+
+
+nc: 1
+names: ['Beyblade']
